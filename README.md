@@ -8,7 +8,7 @@ been refining my skills in 3D modeling giving life to imagination.
 ## Skills
 
 ### Programming Languages:
-C++: Proficient in advanced features such as memory management and object-oriented design, with extensive use of graphic libraries.
+C++: Proficient in advanced features such as memory management and object-oriented design, with extensive use of graphic libraries. <br/>
 C#: Experienced in utilizing Unity for game development and implementing gameplay mechanics.
 
 ## Game Development
