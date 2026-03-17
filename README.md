@@ -98,7 +98,7 @@ Multiplayer version with real-time networking.
 
 <td width="300px" align="center">
 
-<img src="https://img.itch.zone/aW1nLzE5NjE5NTg4LnBuZw==/315x250%23c/QnQy6R.png" width="100%"/>
+<a href="https://monsterduke.itch.io/overdrive"><img src="https://img.itch.zone/aW1nLzI1OTIwNTM0LnBuZw==/315x250%23c/sYU3LM.png" width="100%" onerror="this.style.display='none'"/></a>
 
 ### ⚡ Overdrive
 Minimalist survival game with waves, upgrades, and fast-paced gameplay.
@@ -120,26 +120,28 @@ Minimalist survival game with waves, upgrades, and fast-paced gameplay.
 
 ## 🧩 More Projects
 
-| Project | Stack |
-|---|---|
-| ♟️ Chess | C++, SFML |
-| 💎 Gem Odyssey | C++, SFML |
-| 🧩 Maze Runner | x86 Assembly |
-| 📱 Pet Tracker App | Unity, Figma |
-| 🐤 Better Flappy Bird | Unity |
-| ⚔️ Blade in the Storm | Unity |
-| 🔌 Rocket League Auto Chat Plugin | Python |
-| 🎨 Pixel UI Button Pack | Figma |
+| Project | Stack | Links |
+|---|---|---|
+| ♟️ Chess | C++, SFML | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ali-Yousaf/chess) |
+| 💎 Gem Odyssey | C++, SFML | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ali-Yousaf/Gem-Odyssey) |
+| 🧩 Maze Runner | x86 Assembly | — |
+| 📱 Pet Tracker App | Unity, Figma | — |
+| 🐤 Better Flappy Bird | Unity | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ali-Yousaf/better-flappy-bird) [![Play](https://img.shields.io/badge/Play-FF2442?style=flat-square&logo=itch.io&logoColor=white)](https://monsterduke.itch.io/better-flappy-bird) |
+| ⚔️ Blade in the Storm | Unity | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ali-Yousaf/chill-jam-14) [![Play](https://img.shields.io/badge/Play-FF2442?style=flat-square&logo=itch.io&logoColor=white)](https://monsterduke.itch.io/blade-in-the-storm) |
+| ⚡ Overdrive | Unity | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ali-Yousaf/minimalist-game-jam) [![Play](https://img.shields.io/badge/Play-FF2442?style=flat-square&logo=itch.io&logoColor=white)](https://monsterduke.itch.io/overdrive) |
+| 🏰 Dungeon Crawler | Unity | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ali-Yousaf/dungeon-crawler) [![Play](https://img.shields.io/badge/Play-FF2442?style=flat-square&logo=itch.io&logoColor=white)](https://monsterduke.itch.io/dungeon-crawler) |
+| 🔌 Rocket League Auto Chat Plugin | Python | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ali-Yousaf/) |
+| 🎨 Pixelated UI Button Pack | Figma | [![Play](https://img.shields.io/badge/View-FF2442?style=flat-square&logo=itch.io&logoColor=white)](https://monsterduke.itch.io/) |
 
 ---
 
 ## 🏆 Game Jams
 
-| Jam | Entry |
-|---|---|
-| 🎮 Chill Jam #14 | Blade in the Storm |
-| 🎮 Mini Jam 54 | Box Collider 2D |
-| 🎮 Minimalist Game Jam | Overdrive |
+| Jam | Entry | Results |
+|---|---|---|
+| 🎮 Chill Jam #14 | [![Blade in the Storm](https://img.shields.io/badge/Blade_in_the_Storm-FF2442?style=flat-square&logo=itch.io&logoColor=white)](https://monsterduke.itch.io/blade-in-the-storm) | [![Results](https://img.shields.io/badge/Results-6e40c9?style=flat-square&logo=itch.io&logoColor=white)](https://itch.io/jam/chill-jam-14) |
+| 🎮 Mini Jam 54 | [![Box Collider 2D](https://img.shields.io/badge/Box_Collider_2D-FF2442?style=flat-square&logo=itch.io&logoColor=white)](https://monsterduke.itch.io/box-collider-2d) | [![Results](https://img.shields.io/badge/Results-6e40c9?style=flat-square&logo=itch.io&logoColor=white)](https://itch.io/jam/mini-jam-187-duality/rate/3665266) |
+| 🎮 Minimalist Game Jam | [![Overdrive](https://img.shields.io/badge/Overdrive-FF2442?style=flat-square&logo=itch.io&logoColor=white)](https://monsterduke.itch.io/overdrive) | [![Results](https://img.shields.io/badge/Results-6e40c9?style=flat-square&logo=itch.io&logoColor=white)](https://itch.io/jam/minimalist-game-jam1) |
 
 ---
 
@@ -158,7 +160,7 @@ Minimalist survival game with waves, upgrades, and fast-paced gameplay.
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ali-Yousaf/Ali-Yousaf/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Ali-Yousaf/Ali-Yousaf/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ---
