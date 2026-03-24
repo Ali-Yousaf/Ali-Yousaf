@@ -149,7 +149,7 @@ Minimalist survival game with waves, upgrades, and fast-paced gameplay.
 
 <p align="center">
   <a href="https://aliyousaf-ashen.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.fiverr.com/ali_yousaf121"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+  <a href="https://www.fiverr.com/s/pdQNZXZ"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
   <a href="https://monsterduke.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UC7KITlQNDJzdMbTiUMZ_K3A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/dukelabs1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
