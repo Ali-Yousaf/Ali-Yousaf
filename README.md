@@ -30,16 +30,16 @@ Computer Science student at **FAST NUCES** specializing in **Game Development** 
 ## 🧠 Skills & Tools
 
 **🎮 Game Dev**
-`Unity` `Gameplay Systems` `Physics & Animation` `2D / 3D` `AI / FSMs` `Shader Graph` `SFML`
+`Unity` `Game Design` `Gameplay Systems` `Physics & Animation` `2D / 3D` `AI / FSMs` `Shader Graph` `SFML` `Raylib` `LÖVE Framework`
 
 **💻 Programming**
-`C#` `C++` `Python`
+`C#` `C++` `Python` `Lua`
 
 **🎨 Design & Tools**
 `Blender` `Aseprite` `Figma` `Git` `UI / UX`
 
 **🌐 Networking**
-`Multiplayer Basics`
+`Multiplayer Basics` `Socket Programming`
 
 ---
 
