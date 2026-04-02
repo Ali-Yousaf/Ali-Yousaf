@@ -146,10 +146,8 @@ Minimalist survival with waves, upgrades, and fast-paced gameplay.
 ---
 
 ## 🐍 Contribution Snake
-
-
 <div align="center">
-  [![snake_gif](https://github.com/Ali-Yousaf/Ali-Yousaf/blob/output/github-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/Ali-Yousaf/Ali-Yousaf/output/snake-dark.svg" alt="snake gif"/>
 </div>
 
 ---
