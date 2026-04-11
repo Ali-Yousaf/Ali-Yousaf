@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Game+Developer+%40+FAST+NUCES;Unity+%7C+C%23+%7C+C%2B%2B;3D+Modeler+%7C+Gameplay+Engineer;Building+Interactive+Experiences" />
 
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-000000?style=for-the-badge&logoColor=white)](https://aliyousaf-ashen.vercel.app/)
+[![Website](https://img.shields.io/badge/◈_Website-000000?style=for-the-badge&logoColor=white)](https://dukeelabs.com/)
 [![Itch.io](https://img.shields.io/badge/◈_Itch.io-FA5C5C?style=for-the-badge&logoColor=white)](https://monsterduke.itch.io/)
 [![Fiverr](https://img.shields.io/badge/◈_Fiverr-1DBF73?style=for-the-badge&logoColor=white)](https://www.fiverr.com/s/pdQNZXZ)
 [![YouTube](https://img.shields.io/badge/◈_YouTube-FF0000?style=for-the-badge&logoColor=white)](https://www.youtube.com/channel/UC7KITlQNDJzdMbTiUMZ_K3A)
